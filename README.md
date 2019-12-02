@@ -2,7 +2,7 @@
 
 This repositary conteins examples and practical exercises of SPARK
 
-##Exercises
+## Exercises
 - [Spark SQL](https://github.com/OxyBird/SparkPractice/tree/master/Spark%20SQL)
 - [Spark Streaming and Kafka](https://github.com/OxyBird/SparkPractice/tree/master/Code/Sample%20Code)
 - [SparkML](https://github.com/OxyBird/SparkPractice/tree/master/MLCode)
